@@ -6,3 +6,7 @@
 | Diogenes      | Polanco               | 
 | Carlos        | Felix                 | 
 | Alexander     | Villaman              | 
+| Carlos        | Rodriguez             | 
+| Randy         | Dominguez             | 
+| Jean Carlos   | Arnaud                | 
+| Abel          | Sanchez               | 
