@@ -11,6 +11,8 @@
 | Jean Carlos   | Arnaud                | 
 | Abel          | Sanchez               | 
 | Alexandra     | Adames                |
-| Junior        |Mena       
-|Duller         |Matos
-| Obed          |Tejada                | 
+| Junior        |Mena                   |
+| Duller        |Matos                  |
+| Obed          |Tejada                 |
+| Pedro         |Suriel                 |
+
