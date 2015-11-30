@@ -5,9 +5,11 @@
 | ------------- |:---------------------:| 
 | Diogenes      | Polanco               | 
 | Carlos        | Felix                 | 
-| Alexander     | Villaman              | 
+| Alexander     | Villaman              |
 | Carlos        | Rodriguez             | 
 | Randy         | Dominguez             | 
 | Jean Carlos   | Arnaud                | 
 | Abel          | Sanchez               | 
-| Alexandra     | Adames                | 
+| Alexandra     | Adames                |
+| Junior         |Mena                  |
+| Obed           |Tejada                | 
