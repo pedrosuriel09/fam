@@ -6,3 +6,5 @@
 | Diogenes      | Polanco               | 
 | Carlos        | Felix                 | 
 | Alexander     | Villaman              | 
+|Junior         |Mena                   |
+|Obed           |Tejada                 |
