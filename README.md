@@ -3,6 +3,6 @@
 # Estos son los miembros del equipo: 
 | Nombre        | Apellido              | 
 | ------------- |:---------------------:| 
-| Diogenes      | Polanco               | 
+| Abel          | A. Sanchez            | 
 | Carlos        | Felix                 | 
 | Alexander     | Villaman              | 
